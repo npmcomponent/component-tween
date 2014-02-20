@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter')
-  , ease = require('ease');
+var Emitter = require('component-emitter')
+  , ease = require('component-ease');
 
 /**
  * Expose `Tween`.
